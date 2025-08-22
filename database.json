@@ -1,9 +1,27 @@
 {
     "users": [
-    {"id": 1,
-    "username": "John321",
-    "firstname": "John",
-    "email": "john@gmail.com"
+    {
+    
+    "id": 1,
+    "username": "Vinay321",
+    "firstname": "Vinay",
+    "email": "vinay@gmail.com"
+
+    },
+        {
+    
+    "id": 2,
+    "username": "Ravi321",
+    "firstname": "Ravi",
+    "email": "ravi@gmail.com"
+
+    },
+        {
+    
+    "id": 3,
+    "username": "Sonia321",
+    "firstname": "Sonia",
+    "email": "sonia@gmail.com"
 
     }
 ]
